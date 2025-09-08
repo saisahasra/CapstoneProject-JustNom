@@ -1,0 +1,5 @@
+Name:Boring Burger Shop
+Garnishes:[]
+Burger:<Name:Plain Burger,Garnishes:[],Price:350>
+
+Burger:<Name:Cheese Burger,Garnishes:[cheese],Price:450>

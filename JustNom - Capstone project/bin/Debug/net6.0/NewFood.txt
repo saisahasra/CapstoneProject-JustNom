@@ -1,0 +1,12 @@
+Customer Name: s
+Total cost: 580
+Margherita (tomato sauce,  cheese, mushroom) 580
+
+Customer Name: s
+Total cost: 1000
+Ham and Mushroom (tomato sauce,  ham,  mushroom,  cheese) 650
+Plain Burger () 350
+
+Customer Name: d
+Total cost: 450
+Cheese Burger (cheese) 450

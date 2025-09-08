@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMNjqRCymQU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sreek\\Source\\Repos\\capstone-project-just-nom\\JustNom - Capstone project\\JustNom - Capstone project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sreek\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
